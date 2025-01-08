@@ -7,22 +7,23 @@
 
 - <b> Sports Projects</b>
   - [Analyzing trends in MLB Hall of Fame voting](https://github.com/mroberts27/MLB-Hall-of-Fame-Blog)
-  - [Analyzing stats that Lead to MLB Team Success](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Analyzing stats that Lead to MLB Team Success (Shiny App)](https://github.com/mroberts27/Baseball-stats-shiny-app)
+    
+ 
 - <b>Personal Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Analyzing Trends in time spent on my sports activities](https://github.com/mroberts27/Tracking-sports-activity-)
 
 
 <h2> 🔭 I’m currently working on ... </h2>
-  -  
+<ul>
+  <li><b>What makes an ideal NFL offensive lineman?</b></li>
+  <li><b>Ben Wallace's Odd Path to the Hall of Fame</b></li>
+</ul>
+
+
+
+ 
+  
 
 <h2> 🤳 Connect with me:</h2>
 
