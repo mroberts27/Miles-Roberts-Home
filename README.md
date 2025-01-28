@@ -6,7 +6,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Sports Projects</b>
-  - [Analyzing trends in MLB Hall of Fame voting](https://github.com/mroberts27/MLB-Hall-of-Fame-Blog)
+  - [Analyzing trends in MLB Hall of Fame voting](https://stat231-f24.github.io/blog01-hall-of-coders/)
   - [Analyzing stats that Lead to MLB Team Success (Shiny App)](https://github.com/mroberts27/Baseball-stats-shiny-app)
     
  
